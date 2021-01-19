@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+.grid{
+    display: block;
+    margin-left: 50%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    width: 28vw;
+    transform: translateX(-50%);
+}
